@@ -1,3 +1,9 @@
+## Olá! Eu sou o Wagnersilva. <!--<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">-->
+
+  :round_pushpin: São Francisco do Conde, Bahia, Brasil.
+
+  :books::woman_technologist: Estudante de Desenvolvimento de Sistemas - SENAI (Dendezeiros, Salvador).
+
  <div>
   <a href="https://github.com/Wagnersilva05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wagnersilva05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
