@@ -1,5 +1,5 @@
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Wagnersilva05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wagnersilva05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagnersilva05&layout=compact&langs_count=16&theme=dracula"/>
 </div>
@@ -8,7 +8,6 @@
   <img align="center" alt="Wagner-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wagner-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
 ##
