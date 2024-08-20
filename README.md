@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wagner+Silva!;I'm+19+years+old;I'm+from+Bahia,+Brazil;I'm+a+System+Development+Student;Be+Welcome!+:%29)
 
  <div>
-  <a href="https://github.com/Wagnersilva05">
+  <a href="https://github.com/waguinhuu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wagnersilva05&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagnersilva05&layout=compact&langs_count=16&theme=transparent"/>
 </div>
