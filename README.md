@@ -12,7 +12,7 @@
   <img align="center" alt="Wagner-Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Wagner-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wagner-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   <img align="right" alt="Wagner-C"  width="170" src="https://cdn.discordapp.com/attachments/611898244091609111/1275616186742210683/GIF_20240820_214306_454.gif?ex=66ce72a6&is=66cd2126&hm=5a51259a75387362083621de38dc1466a9e76a9d346c0ffdcd126fea3b3f800d&">
+  
 
  
 </div>
