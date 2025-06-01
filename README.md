@@ -12,7 +12,7 @@ Entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atuo na c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> **Linux**  
 
 ## 💡Sobre mim
-🔍 Sempre buscando aprender e aprimorar minhas habilidades
+• 🔍 Sempre buscando aprender e aprimorar minhas habilidades
 
 🧠 Entusiasta de boas práticas, arquitetura de software e clean code
 
