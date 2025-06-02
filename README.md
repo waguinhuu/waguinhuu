@@ -1,7 +1,7 @@
 👋 Olá, me chamo Wagner!
 
 🚀 Desenvolvedor Back-End Java
-Entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atuo na criação de soluções back-end utilizando Java e Spring Boot, com foco em desenvolvimento de APIs, microsserviços e integração com bancos de dados. Gosto de trabalhar com boas práticas, código limpo e soluções escaláveis, sempre em busca de evolução constante no mundo da tecnologia.
+Entusiasta de tecnologia e apaixonado por desenvolvimento de software. Atuo na criação de soluções back-end utilizando Java e Spring Boot, com foco em desenvolvimento de APIs, microsserviços e integração com bancos de dados.
 
  # 🛠️ Tecnologias & Ferramentas
 • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Java**  
